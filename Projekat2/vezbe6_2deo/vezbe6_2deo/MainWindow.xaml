@@ -1,0 +1,238 @@
+﻿<Window x:Class="vezbe6_2deo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vezbe6_2deo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1000" Width="1400" 
+        WindowStyle="None" AllowsTransparency="True" 
+        Background="Transparent"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+
+    <Canvas Height="1000" Width="1400">
+        <Path Stroke="Black" StrokeThickness="2" Name="UIPath">
+            <Path.Fill>
+                <ImageBrush ImageSource="https://www.slikarskipribor.rs/fotky6576/fotos/crno-slikarsko-platno-25m_dodatna4.jpg">
+
+                </ImageBrush>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="0,700">
+                        <LineSegment Point="50,670"/>
+                        <LineSegment Point="335,600"/>
+                        <LineSegment Point="350,596"/>
+                        <LineSegment Point="365,590"/>
+                        <LineSegment Point="375,585"/>
+                        <LineSegment Point="385,579"/>
+                        <LineSegment Point="395,570"/>
+                        <LineSegment Point="480,490"/>
+                        <LineSegment Point="485,485"/>
+                        <LineSegment Point="490,480"/>
+                        <LineSegment Point="495,475"/>
+                        <LineSegment Point="500,470"/>
+                        <LineSegment Point="600,430"/>
+                        <LineSegment Point="610,425"/>
+                        <LineSegment Point="615,420"/>
+                        <LineSegment Point="650,393"/>
+                        <LineSegment Point="760,334"/>
+                        <LineSegment Point="818,308"/>
+                        <LineSegment Point="865,265"/>
+                        <LineSegment Point="871,262"/>
+                        <LineSegment Point="877,245"/>
+                        <LineSegment Point="890,225"/>
+                        <LineSegment Point="920,202"/>
+                        <LineSegment Point="949,187"/>
+                        <LineSegment Point="970,180"/>
+                        <LineSegment Point="985,175"/>
+                        <LineSegment Point="1020,172"/>
+                        <LineSegment Point="1040,170"/>
+                        <LineSegment Point="1090,175"/>
+                        <LineSegment Point="1120,184"/>
+                        <LineSegment Point="1130,190"/>
+                        <LineSegment Point="1140,195"/>
+                        <LineSegment Point="1150,207"/>
+                        <LineSegment Point="1155,214"/>
+                        <LineSegment Point="1160,220"/>
+                        <LineSegment Point="1165,230"/>
+                        <LineSegment Point="1170,240"/>
+                        <LineSegment Point="1175,255"/>
+                        <LineSegment Point="1175,260"/>
+                        <LineSegment Point="1176,265"/>
+                        <LineSegment Point="1178,276"/>
+                        <LineSegment Point="1230,294"/>
+                        <LineSegment Point="1155,335"/>
+                        <LineSegment Point="1100,415"/>
+                        <LineSegment Point="1037,560"/>
+                        <LineSegment Point="1025,592"/>
+                        <LineSegment Point="1000,624"/>
+                        <LineSegment Point="940,690"/>
+                        <LineSegment Point="890,727"/>
+                        <LineSegment Point="840,765"/>
+                        <LineSegment Point="897,802"/>
+                        <LineSegment Point="965,850"/>
+                        <LineSegment Point="1005,865"/>
+                        <LineSegment Point="1135,880"/>
+                        <LineSegment Point="1400,896"/>
+                        <LineSegment Point="1380,955"/>
+                        <LineSegment Point="1030,930"/>
+                        <LineSegment Point="962,978"/>
+                        <LineSegment Point="960,933"/>
+                        <LineSegment Point="950,930"/>
+                        <LineSegment Point="920,938"/>
+                        <LineSegment Point="675,928"/>
+                        <LineSegment Point="625,974"/>
+                        <LineSegment Point="602,929"/>
+                        <LineSegment Point="290,920"/>
+                        <LineSegment Point="200,990"/>
+                        <LineSegment Point="185,965"/>
+                        <LineSegment Point="226,915"/>
+                        <LineSegment Point="195,895"/>
+                        <LineSegment Point="145,902"/>
+                        <LineSegment Point="102,898"/>
+                        <LineSegment Point="95,865"/>
+                        <LineSegment Point="90,840"/>
+                        <LineSegment Point="112,829"/>
+                        <LineSegment Point="179,845"/>
+                        <LineSegment Point="200,844"/>
+                        <LineSegment Point="270,855"/>
+                        <LineSegment Point="500,865"/>
+                        <LineSegment Point="605,875"/>
+                        <LineSegment Point="610,850"/>
+                        <LineSegment Point="590,780"/>
+                        <LineSegment Point="570,750"/>
+                        <LineSegment Point="520,703"/>
+                        <LineSegment Point="464,686"/>
+                        <LineSegment Point="419,666"/>
+                        <LineSegment Point="350,682"/>
+                        <LineSegment Point="232,690"/>
+                        <LineSegment Point="190,714"/>
+                        <LineSegment Point="125,740"/>
+                        <LineSegment Point="130,725"/>
+                        <LineSegment Point="100,720"/>
+                        <LineSegment Point="145,695"/>
+                        <LineSegment Point="85,715"/>
+                        <LineSegment Point="110,695"/>
+                        <LineSegment Point="70,699"/>
+                        <LineSegment Point="85,690"/>
+                        <LineSegment Point="0,700"/>
+                    </PathFigure>
+
+                    <PathFigure StartPoint="618,750">
+                        <LineSegment Point="699,787"/>
+                        <LineSegment Point="792,799"/>
+                        <LineSegment Point="885,870"/>
+                        <LineSegment Point="695,875"/>
+                        <LineSegment Point="645,850"/>
+                        <LineSegment Point="628,809"/>
+                        <LineSegment Point="620,790"/>
+                        <LineSegment Point="618,750"/>
+                    </PathFigure>
+
+                    <PathFigure StartPoint="1100,290">
+                        <ArcSegment Size="1,1" RotationAngle="0" IsLargeArc="True" SweepDirection="Clockwise" Point="1100,250"/>
+                        <ArcSegment Size="1,1" RotationAngle="0" IsLargeArc="True" SweepDirection="Clockwise" Point="1100,290"/>
+                    </PathFigure>
+
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+
+        <DockPanel Canvas.Left="516" Canvas.Top="464" Height="247" Width="410">
+            <RichTextBox Name="rtbEditor" Margin="0,0,0,10" Width="404" SelectionChanged="rtbEditor_SelectionChanged" KeyDown="RtbEditor_KeyDown"/>
+        </DockPanel>
+
+        <ToolBar Height="41" Width="1135" Canvas.Left="242" Canvas.Top="882" RenderTransformOrigin="0.5,0.5" >
+            <ToolBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.406"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ToolBar.RenderTransform>
+            <Button Name="new" ToolTip="New" Click="New_Click" >
+                <Image Source="http://www.iconarchive.com/download/i95241/dtafalonso/modern-xp/ModernXP-26-Filetype-New.ico" Width="16" Height="16" />
+
+            </Button>
+
+            <Button Name="open" ToolTip="open" Click="Open_Click">
+                <Image Source="https://icons-for-free.com/iconfiles/png/512/folder+open+icon-1320161390409087972.png" Width="16" Height="16" />
+            </Button>
+            <Separator/>
+            <Button Name="save" ToolTip="Save" Click="Save_Click">
+                <Image Source="http://www.yfamily.ru/iColoringPlugin/img/save.png" Width="16" Height="16" />
+            </Button>
+            <Separator/>
+            <Button Name="saveas" ToolTip="Save as" Click="Saveas_Click">
+                <Image Source="http://www.iconarchive.com/download/i42625/oxygen-icons.org/oxygen/Actions-document-save-all.ico" Width="16" Height="16" />
+            </Button>
+            <Separator/>
+            <ToggleButton Command="EditingCommands.ToggleBold" x:Name="btnBold" Content="B"/>
+            <Separator/>
+            <ToggleButton Command="EditingCommands.ToggleItalic" Name="btnItalic" Content="I" />
+            <Separator />
+            <ToggleButton Command="EditingCommands.ToggleUnderline" Name="btnUnderline" Content="U" />
+            <Separator />
+
+
+            <ComboBox x:Name="cmbFontFamily" Width="150" SelectionChanged="cmbFontFamily_SelectionChanged"/>
+            <Separator/>
+            <ComboBox Name="cmbFontSize" Width="70" IsEditable="True" TextBoxBase.TextChanged="CmbFontSize_TextChanged"/>
+            <Separator/>
+            <ComboBox x:Name="cmbFontColor" Width="100" SelectionChanged="CmbFontColor_SelectionChanged" >
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Fill="{Binding Name}" Width="16" Height="16" Margin="0,2,5,2" />
+                            <TextBlock Text="{Binding Name}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Separator/>
+            <TextBox x:Name="findR"  TextWrapping="Wrap" Text="" Foreground="Gray" VerticalAlignment="Center" Width="100"/>
+            <TextBox x:Name="replace"   TextWrapping="Wrap" Text="" Foreground="Gray" VerticalAlignment="Center" Width="100"/>
+            <Button x:Name="ReplaceButton" Content="Replace"   VerticalAlignment="Center" Width="58" Click="ReplaceButton_Click"/>
+            <Separator />
+            <Button x:Name="buttonDT"  VerticalAlignment="Center"  Click="ButtonDT_Click" Height="32" Width="30" Margin="0,2"  >
+                <Image Height="31"  Source="https://p1.hiclipart.com/preview/597/835/651/simply-styled-icon-set-731-icons-free-date-and-time-calendar-and-time-schedule-icon-png-clipart.jpg" Width="27" >
+
+                </Image>
+            </Button>
+
+        </ToolBar>
+
+        <StatusBar Height="22" Canvas.Left="540" Canvas.Top="701" Width="357"  >
+            <StatusBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.003"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StatusBar.RenderTransform>
+            <StatusBarItem Background="#FFDBECE7" Width="170">
+                <TextBox x:Name="textBox" IsReadOnly="True" TextWrapping="Wrap" Text="" Width="96" BorderBrush="Transparent" Background="Transparent" Height="23" RenderTransformOrigin="0.5,0.517" HorizontalAlignment="Left" VerticalAlignment="Top"  />
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem Width="413" Background="#FFDBECE7">
+                <TextBlock Name="lblCursorPosition"  Width="150"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <Button  Width="38" Height="38" Content="X" RenderTransformOrigin="7.938,3.374" Canvas.Left="1081" Canvas.Top="251" FontSize="24" FontFamily="Arial" FontWeight="Bold" Background="{x:Null}" Foreground="#FFF3FF00" Click="Button_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Ellipse Fill="#FF5D5D5D"/>
+                        <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+       
+    </Canvas>
+
+</Window>

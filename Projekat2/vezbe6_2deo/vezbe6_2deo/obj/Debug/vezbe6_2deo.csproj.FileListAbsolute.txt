@@ -1,0 +1,65 @@
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe.config
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.pdb
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csprojAssemblyReference.cache
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.g.cs
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\App.g.cs
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.cache
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.lref
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.baml
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.g.resources
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.Properties.Resources.resources
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.GenerateResource.cache
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.CoreCompileInputs.cache
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.exe
+c:\users\pr108-2017\source\repos\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.pdb
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe.config
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.pdb
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csprojAssemblyReference.cache
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.g.cs
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\App.g.cs
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.cache
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.lref
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.baml
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.g.resources
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.Properties.Resources.resources
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.GenerateResource.cache
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.CoreCompileInputs.cache
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.exe
+E:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.pdb
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe.config
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.pdb
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.g.cs
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\Replace.g.cs
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\App.g.cs
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.cache
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.lref
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.baml
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\Replace.baml
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.g.resources
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.Properties.Resources.resources
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.GenerateResource.cache
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.CoreCompileInputs.cache
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.exe
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.pdb
+D:\FTN\Interakcija čovek računar\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csprojAssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe.config
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\bin\Debug\vezbe6_2deo.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.SuggestedBindingRedirects.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\Replace.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\App.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo_MarkupCompile.lref
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\MainWindow.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\Replace.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.g.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.Properties.Resources.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.GenerateResource.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat2\vezbe6_2deo\vezbe6_2deo\obj\Debug\vezbe6_2deo.pdb
